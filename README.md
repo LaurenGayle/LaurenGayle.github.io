@@ -1,2 +1,2 @@
-# LaurenGayle.github.io
+# Lauren Gayle
 The portfolio website of Lauren Gayle
